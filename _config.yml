@@ -1,7 +1,7 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/"
+
 url:            "https://kat-wehr.github.io/mysite"
 
 # Google Analytics
