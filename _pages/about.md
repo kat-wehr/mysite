@@ -5,10 +5,6 @@ author: "Katrina"
 permalink: /about/
 ---
 
-<p align="center">
-  <img src="/assets/IMG_1228copy2.jpg" alt="Me" width="200"/>
-</p>
-
 I'm Katrina Wehr, a learning designer at Penn State University in State College, PA. You may know me from various presentations about topics such OER Schema, ELMSLN, Capture Studio, and others. I came to PSU in 2015 to work at the Smeal College of Business's eLDIG team, and in 2018 I "jumped ship" to the College of Arts & Architecture. In the fall of 2018, I started my doctoral degree in Learning, Design, and Technology at Penn State. 
 
 Prior to Penn State, I was an instructional technologist at Drexel University’s LeBow College of Business in Philadelphia, PA. Before moving to Philadelphia, I worked in various eLearning design roles on a contract basis with private companies and K-12 and higher education institutions throughout Pennsylvania and the mid-Atlantic region, primarily developing courses and materials to train teachers in effective online/technology enhanced instructional strategies. You can find my CV on this site. 
