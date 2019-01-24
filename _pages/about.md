@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Katrina"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+I'm Katrina Wehr, an instructional designer and soon to be doctoral student at Penn State University in State College, PA. You may know me from various presentations about topics such OER Schema, ELMSLN, Capture Studio, and others. I came to PSU in 2015 to work at the Smeal College of Business's eLDIG team. Prior to that, I was an instructional technologist at Drexel University’s LeBow College of Business in Philadelphia, PA. Before moving to Philadelphia, I worked in various eLearning design roles on a contract basis with private companies and K-12 and higher education institutions throughout Pennsylvania and the mid-Atlantic area, primarily developing courses and materials to train teachers in effective online/technology enhanced instructional strategies. You can find my CV elsewhere on this site. 
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I earned my B.S. in Secondary Education here at Penn State in 2012 and went on to complete my M.Ed. in Instructional Design & Technology at Kutztown University of Pennsylvania. While I was in graduate school I worked as a long-term substitute teacher and journalist. My journalism work has been published in various forms in both local and national news outlets.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+I do occassionally take up freelance work. [Email me](mailto:{{site.email}}) to discuss your next project.
