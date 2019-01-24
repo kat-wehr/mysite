@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Katrina M. Wehr
+description:    "My personal website"
 
 url:            "https://kat-wehr.github.io/mysite"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Katrina Wehr
+  url:          https://katrinawehr.com
+  email:        katrina.m.wehr@gmail.com
 
 # Build settings
 markdown:       kramdown
