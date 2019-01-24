@@ -13,6 +13,11 @@ author:
   url:          https://katrinawehr.com
   email:        katrina.m.wehr@gmail.com
 
+# Social 
+twitter_username:     katrinamwehr
+github_username:      kat-wehr
+linkedin_username:    katmwehr
+
 # Build settings
 markdown:       kramdown
 include:
