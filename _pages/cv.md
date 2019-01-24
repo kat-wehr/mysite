@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Katrina Wehr's CV
 permalink: /cv/
 ---
