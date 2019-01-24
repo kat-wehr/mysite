@@ -1,0 +1,15 @@
+---
+layout: post
+title: Confidence Crisis
+featured-img: 
+categories: [PSEL]
+---
+Every once in a while (typically right after our seminars) I have this crisis of confidence where I'm thinking about all the things we've learned about in PSEL, plus what I've read, observed, and learned on my own, and I take all that in with what I know about my personality and my own strengths and weaknesses, and the result is that I start thinking I'm not cut out to be a good leader.
+
+Based on what I've learned about leaders and leading so far, I think good leaders need to have a strong vision and intuition surrounding their field of expertise. They also have to be able to trust their team to get things done, be comfortable delegating tasks, and be able to perform in situations where the pressure is high. Leaders also need to be able to get their team to work together toward a common goal, and there has to be a level of trust from the team that their leader has their best interests in mind.
+
+While I believe I have the passion, vision, and ability to perform under pressure, it's the other critical elements that are my weaknesses. I've never been a strong socializer, and I've never been great at delegating tasks or trying to convince people to "buy into" my ideas. I've always been the kind of person who does what I believe, regardless of who is with me and who isn't, and if that means I'm doing it all myself, well that's all the better because then there are less people to slow me down, distract me, or argue with me! I like to allow the results I get to speak for themselves.
+
+That mindset got me really far when I was a freelancer and supporting myself solely on individual projects. I have found that in team environments, my approach has needed HUGE adjustments. While it has been difficult, I've come lightyears ahead of where I previously was. By no means am I the perfect definition of emotionally intelligent, though, and that's my main hangup when I think about leadership. I don't want to accidentally offend someone, or make people feel alienated. I definitely do not go out of my way (nor have I ever intentionally tried) to argue with others or make them feel left behind. But when push comes to shove and results need to happen, I'm the type of person who will just push ahead and get the job done. No hard feelings, no grudges, just results.
+
+I worry that even though I'm aware of and actively working on negating the effects of these ingrained personality traits, it won't be enough to allow me to be a good leader. But hopefully if I am ever in the position of leading a group of people, perhaps I can count on them to help me check myself and let me know when I need to step back and reevaluate my approach to a situation. I hope that what does come through is that I'm really passionate about my work and only want to do well -- and if I am working with a team of people who are equally dedicated to doing the best job they can do, then maybe they won't be as put off by my sometimes brash approach.
