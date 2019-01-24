@@ -5,7 +5,6 @@ author: "Katrina"
 permalink: /about/
 ---
 
-<p>
 <a href="https://twitter.com/{{ site.twitter_username }}">
   <i class="fa fa-twitter"></i> Twitter
 </a>
@@ -15,7 +14,6 @@ permalink: /about/
 <a href="https://github.com/{{ site.github_username }}">
  <i class="fa fa-github"></i> GitHub
 </a>
-</p>
 
 I'm Katrina Wehr, a learning designer at Penn State University in State College, PA. You may know me from various presentations about topics such OER Schema, ELMSLN, Capture Studio, and others. I came to PSU in 2015 to work at the Smeal College of Business's eLDIG team, and in 2018 I "jumped ship" to the College of Arts & Architecture. In the fall of 2018, I started my doctoral degree in Learning, Design, and Technology at Penn State. 
 
