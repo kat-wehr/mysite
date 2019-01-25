@@ -3,15 +3,15 @@ layout: default
 ---
 
 <div class="catalogue">
-  {% for post in paginator.post %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+  {% for post in paginator.portfolio %}
+    <a href="{{ portfolio.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <time datetime="{{ portfolio.date }}" class="catalogue-time">{{ portfolio.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
         <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
+          {{ portfolio.content | strip_html | truncatewords: 30 }}
         </p>
 
       </div>
