@@ -8,7 +8,7 @@ permalink: /cv/
 Instructional Designer, Educator, Open Education Advocate.
 
 <div id="webaddress">
-<a href="mailto:katrina.m.wehr@gmail.com">katrina.m.wehr@gmail.com</a>
+  <p><a href="mailto:katrina.m.wehr@gmail.com">katrina.m.wehr@gmail.com</a></p>
 <p><a href="https://twitter.com/{{ site.twitter_username }}">
   <i class="fa fa-twitter"></i> Twitter
   </a> |
