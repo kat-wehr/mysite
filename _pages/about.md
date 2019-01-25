@@ -5,7 +5,7 @@ author: "Katrina"
 permalink: /about/
 ---
 
-<p align="justify">
+<p>
 <ul>
 <li><a href="https://twitter.com/{{ site.twitter_username }}">
   <i class="fa fa-twitter"></i> Twitter
