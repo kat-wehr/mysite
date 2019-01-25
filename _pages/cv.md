@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Katrina M. Wehr
-Instructional Designer, Educator, Open Education Advocate.
+Learning Designer, Tempered Radical, Educator, Open Education Advocate.
 
 <div id="webaddress">
   <p><a href="mailto:katrina.m.wehr@gmail.com">katrina.m.wehr@gmail.com</a></p>
