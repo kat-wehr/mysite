@@ -13,5 +13,9 @@ As a master's-degree holding employee at Smeal College of Business, I was qualif
 
 In my sections of PSU006, I wrote a companion set of tutorials for each week's topics. These tutorials exist at [https://courses.eldig-elmsln.vmhost.psu.edu/psu006/node/3](https://courses.eldig-elmsln.vmhost.psu.edu/psu006/node/3). View a sample lesson and my content outline below.
 
-- [Sample Lesson: Leadership](/assets/porfolio_images/Screenshot-Leadership.png)
-- [Content Outline](/assets/portfolio_images/PSU006_contentoutline.png)
+<ul>
+  <li><a href="/assets/porfolio_images/Screenshot-Leadership.png" target="new">Sample Lesson Page: Leadership</a>
+  </li>
+  <li><a href="/assets/portfolio_images/PSU006_contentoutline.png" target="new">Content Outline</a>
+  </li>
+</ul>
