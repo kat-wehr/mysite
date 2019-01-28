@@ -105,6 +105,9 @@ _Supplemental Graduate Coursework: Penn State University_
 - Curriculums in Higher Education (HIED 548), SP 16
 - Administration in Higher Education (HIED 552), SP 17
 
+## Publications
+Wehr, K. M. [In Press]. Asynchronous 
+
 ## Service Leadership
 
 Steering Committee, __Online Learning Consortium Innovate Conference__         
