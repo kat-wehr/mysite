@@ -1,4 +1,8 @@
-front matter 
+---
+layout: post
+title: My First Publication!
+categories: [Work, Reflection, Publications, Goals]
+--- 
 
 One of my goals for 2018 was to publish an article about my work in a scholarly source. It was my stretch goal, one of those things that, if achieved, I would be thrilled, but if not, I wasn't going to beat myself up over as long as I made an attempt. After all, the publication business is long and convoluted and highly dependent on the moods of those who happen to review your article for the publication at the time they choose to do their reviews. 
 
