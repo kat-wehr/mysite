@@ -106,7 +106,9 @@ _Supplemental Graduate Coursework: Penn State University_
 - Administration in Higher Education (HIED 552), SP 17
 
 ## Publications
-Wehr, K. M. [In Press]. Asynchronous 
+
+Wehr, K. M. (in press). Asynchronous Video-Based Discussions in the Online Classroom. *eLearn Magazine*. Retrieved from: [https://elearnmag.acm.org/archive.cfm?aid=3236691](https://elearnmag.acm.org/archive.cfm?aid=32366
+91). 
 
 ## Service Leadership
 
