@@ -8,18 +8,16 @@ layout: default
 
   <p>A collection of projects from my professional career.</p>
   
-   
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+  {% for portfolios in site.portfolio %}
 
-  <span>{{ paginator.page }}</span>
-</div>
 
+<a href="{{ portfolio.url | prepend: site.baseurl }}">
+        <h2>{{ portfolio.title }}</h2>
+</a>
+
+<p class="post-excerpt">{{ portfolio.description | truncate: 160 }}</p>
+
+{% endfor %}
     
   </div>
 
