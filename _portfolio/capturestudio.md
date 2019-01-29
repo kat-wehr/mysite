@@ -1,11 +1,12 @@
 ---
 layout: post
-title: MGMT215 Capture Studio
+title: MGMT 215 Capture Studio
 categories: [experience design]
 description: An experience design developed with an interdisciplinary team. 
 ---
 
-## MGMT215: Entrepreneurial Mindset/CaptureStudio
+## MGMT 215: Entrepreneurial Mindset/CaptureStudio
+### Experience Design
 
 I was tasked with development of an introductory level entrepreneurship class in an answer to the university's strategic plan to enhance entrepreneurship opportunities and skillsets across the Penn State system. MGMT215 is a course that was taught in residence, and we redesigned it to be taught 100% asynchronously (with optional synchronous meetings) and delivered to students who registered at any of Penn State's campuses. 
 
