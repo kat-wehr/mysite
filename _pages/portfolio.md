@@ -1,8 +1,9 @@
 ---
 layout: portfolio
 title: Portfolio
-permalink: /portfolio/
 ---
+
+<p> test </p>
 
 {% for portfolios in site.portfolio %}
 
