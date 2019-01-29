@@ -2,3 +2,21 @@
 layout: default
 title: Portfolio
 ---
+
+<div class="post">
+<h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+
+  <p>A collection of projects from my professional career.</p>
+  
+  {{ content }}
+    
+  </div>
+
+<div class="pagination">
+
+  <a href="#" class="top">Top</a>
+</div>
+
+</body>
+</html>
