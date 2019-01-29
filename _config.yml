@@ -42,3 +42,8 @@ paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Collections
+collections:
+ portfolio:
+  output: true
