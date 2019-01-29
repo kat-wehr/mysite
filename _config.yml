@@ -22,8 +22,7 @@ linkedin_username:    katmwehr
 markdown:       kramdown
 include:
   - _pages
-  - _portfolio
-
+ 
 # Assets
 sass:
   sass_dir:     _sass
