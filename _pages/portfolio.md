@@ -13,6 +13,7 @@ As a master's-degree holding employee at Smeal College of Business, I was qualif
 
 In my sections of PSU006, I wrote a companion set of tutorials for each week's topics. These tutorials exist at [https://courses.eldig-elmsln.vmhost.psu.edu/psu006/node/3](https://courses.eldig-elmsln.vmhost.psu.edu/psu006/node/3). View a sample lesson and my content outline belo (links open in new tabs).
 
+<html>
 {% include lightbox.html src="/mysite/assets/portfolio_images/Screenshot-Leadership.png" data="group" title="Sample Title" %}
 
 <ul>
@@ -21,6 +22,7 @@ In my sections of PSU006, I wrote a companion set of tutorials for each week's t
   <li><a href="/mysite/assets/portfolio_images/PSU006_contentoutline.png" target="new">Content Outline</a>
   </li>
 </ul>
+</html>
 
 ## MGMT215: Entrepreneurial Mindset/CaptureStudio
 
