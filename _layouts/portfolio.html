@@ -2,12 +2,14 @@
 layout: default
 ---
 
+<h1> {{page.title}} </h1>
+
 <div class="catalogue">
   {% for post in site.portfolio %}
     <a href="{{ portfolio.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <h1 class="catalogue-title">{{ post.title }}</h1>
-        <h2> {{ post.categories }} </h2>
+        <p> {{ post.categories }} </p>
         <div class="catalogue-line"></div>
 
         <p>
