@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: folio
 title: MGMT 215 Capture Studio
 categories: [experience design]
 description: An experience design developed with an interdisciplinary team. 
