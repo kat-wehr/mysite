@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Portfolio
+permalink: /portfolio/
 ---
 
 <p> test </p>
