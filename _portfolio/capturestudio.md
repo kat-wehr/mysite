@@ -2,7 +2,7 @@
 layout: post
 title: MGMT215 Capture Studio
 categories: experience design
-flag: portfolio
+description: An experience design developed with an interdisciplinary team. 
 ---
 
 ## MGMT215: Entrepreneurial Mindset/CaptureStudio
