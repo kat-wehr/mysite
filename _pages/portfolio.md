@@ -4,13 +4,13 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-<div class="catalogue">
-      <a href="{{ portfolio.url | prepend: site.baseurl }}"> {{ portfolio.title }} </a>
+{% for portfolios in site.portfolio %}
 
-{% for post in portfolio %}
-    {% if post.flag == 'portfolio' %}
-    <li><a href="{{ site.baseurl }}{{ portfolio.url }}">{{ portfolio.title }}</a></li>
-    {% endif %}
+
+<a href="{{ portfolio.url | prepend: site.baseurl }}">
+        <h2>{{ portfolio.title }}</h2>
+</a>
+
+<p class="post-excerpt">{{ portfolio.description | truncate: 160 }}</p>
+
 {% endfor %}
-
-</div>
