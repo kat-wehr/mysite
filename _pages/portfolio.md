@@ -1,7 +1,6 @@
 ---
 layout: portfolio
 title: "Portfolio"
-permalink: /portfolio/
 ---
 
 This page presents a selection of projects from my professional experience. 
