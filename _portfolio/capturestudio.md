@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MGMT215 Capture Studio
-categories: experience design
+categories: experience%20design
 description: An experience design developed with an interdisciplinary team. 
 ---
 
