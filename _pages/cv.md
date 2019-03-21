@@ -144,10 +144,11 @@ _July 2014 – Feb. 2015_
 
 ## Professional Achievements &amp; Activities
 
+- OLC Rangers Program, Ranger at OLC Innovate 2019
 - Elliott Masie&#39;s Learning 2017 &quot;30 Under 30&quot; Recipient
-- Penn State Emerging Leaders Program 2017 Participant
-- Penn State Learning Design Resources Working Group
-- Penn State University Conduct Board Hearing Volunteer
-- CITI Program IRB Training Course Completion
+- Penn State Learning Design Resources Working Group, 2017-2018
+- Penn State University Conduct Board Hearing Volunteer, 2018
+- Penn State Emerging Leaders Program Graduate, 2016-2017
+- CITI Program IRB Training Course Completion, 2018-2021
 - Penn State&#39;s ID-2-ID Program Peer Mentoring Program Participant, 2015-16, 2016-17
 - OLC Innovate 2016 Solution Design Summit Finalist
