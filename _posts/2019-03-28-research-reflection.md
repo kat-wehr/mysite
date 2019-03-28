@@ -1,3 +1,10 @@
+---
+layout: post
+title: Early Research Reflection
+featured-img:
+categories: [Work, PhD, Research, reflection]
+---
+
 I just gave an update on my mini research project this semester for one of my classes, and I thought I'd share some reflections on my progress in the spirit of open scholarship. For background, I gave [this presentation](https://docs.google.com/presentation/d/1C61bAXSvOkdRN5oFiyG3emW0HbPoiQTIIELAuZkPzyY/edit?usp=sharing) back in January as an explainer talk in class to get feedback on my study setup. 
 
 This week I gave a [project update talk](https://docs.google.com/presentation/d/1qNuy8Gbsi5JRDrd7nhgj6S4pjZQT4DgTQ-3Rb0UeRvM/edit?usp=sharing) highlighting my "progress" which was really more a discussion of the issues I ran into as a first-time researcher. This was a valuable opportunity because I had the chance to talk openly about what I had trouble with and whether the problems I identified were resolvable, how to resolve them, or if I even identified the right issues as problems to begin with. It was also therapuetic to hear my classmates commiserate with me. 
