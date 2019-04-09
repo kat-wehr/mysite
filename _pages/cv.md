@@ -134,6 +134,7 @@ _July 2014 – Feb. 2015_
 
 ## Scholarly Presentations &amp; Workshops 
 
+- "Remixing Open Content and Pedagogy with OER Schema," EdUI 2018, University of Virginia 
 - &quot;Next Gen Digital Learning Environments,&quot; EDUCAUSE ELI 2018
 - &quot;Analytics for In-Time Course Adjustments,&quot; Learning Design Summer Camp 2017, Penn State
 - &quot;xAPI for Actionable Learning Data Collection,&quot; OLC Innovate 2017
