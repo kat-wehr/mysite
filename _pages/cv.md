@@ -107,7 +107,7 @@ _Supplemental Graduate Coursework: Penn State University_
 
 ## Publications
 
-Wehr, K. M. (in press). Asynchronous Video-Based Discussions in the Online Classroom. *eLearn Magazine*. Retrieved from: [https://elearnmag.acm.org/archive.cfm?aid=3236691](https://elearnmag.acm.org/archive.cfm?aid=3236691). 
+Wehr, K. M. (2018). Asynchronous Video-Based Discussions in the Online Classroom. *eLearn Magazine*. Retrieved from: [https://elearnmag.acm.org/archive.cfm?aid=3236691](https://elearnmag.acm.org/archive.cfm?aid=3236691). 
 
 ## Service Leadership
 
