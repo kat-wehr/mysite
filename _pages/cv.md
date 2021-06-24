@@ -145,7 +145,6 @@ _July 2014 – Feb. 2015_
 
 ## Professional Achievements &amp; Activities
 
-- OLC Rangers Program, Ranger at OLC Innovate 2019
 - Elliott Masie&#39;s Learning 2017 &quot;30 Under 30&quot; Recipient
 - Penn State Learning Design Resources Working Group, 2017-2018
 - Penn State University Conduct Board Hearing Volunteer, 2018
